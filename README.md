@@ -6,6 +6,6 @@ Course assignments are done within the course AWS lab, and then redone within my
 ### Module 1: Week 1
 [C1_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/C1_W1_Assignment.ipynb)
 ## Assignment details
--- Set up a Sagemaker domain.
--- Create a policy and apply it to the right ARN.
--- Ingest, explore, and visualize a product review data set for multi-class text classification.
+- Set up a Sagemaker domain.
+- Create a policy and apply it to the right ARN.
+- Ingest, explore, and visualize a product review data set for multi-class text classification.
