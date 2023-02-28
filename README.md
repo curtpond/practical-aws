@@ -12,3 +12,12 @@ Course assignments are done within the course AWS lab, and then redone within my
 - Use the Sagemaker API to create a Sagemaker session for working with AWS Data Wrangler, Glue, and Athena.
 - Create tables in Athena database and run SQL queries for analysis.
 - Ingest, explore, and visualize a product review data set for multi-class text classification.
+## Module 2: Week 1
+[CL2_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/C1_W2_Assignment.ipynb)
+### Objectives
+- Detect data bias with Sagemaker Clarify.
+- Analyze class imbalance.
+- Create a bias_config and pass it to a Clarify processing job.
+- Review output of processing job in HTML format and inspect CloudWatch logs.
+- Balance the dataset and re-run  the processing job. Inspect metrics.
+
