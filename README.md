@@ -8,5 +8,6 @@ Course assignments are done within the course AWS lab, and then redone within my
 ***
 
 1. [Course 1: Analyze Datasets and Train ML Models Using AutoML](https://github.com/curtpond/practical-aws/tree/main/nb/week1)
+2. [Course 2: Build, Train, and Deploy ML Pipelines Using BERT](https://github.com/curtpond/practical-aws/tree/main/nb/week2)
 
 
