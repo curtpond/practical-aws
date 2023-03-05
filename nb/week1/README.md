@@ -1,6 +1,6 @@
 
 ## Module 1: Week 1
-[C1_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/C1_W1_Assignment.ipynb)
+[C1_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W1_Assignment.ipynb)
 ### Objectives
 - Set up a Sagemaker domain.
 - Create a policy, that includes full AWS Glue permissions, and apply it to the right ARN.
@@ -9,7 +9,7 @@
 - Create tables in Athena database and run SQL queries for analysis.
 - Ingest, explore, and visualize a product review data set for multi-class text classification.
 ## Module 2: Week 1
-[CL2_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/C1_W2_Assignment.ipynb)
+[CL2_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W2_Assignment.ipynb)
 ### Objectives
 - Detect data bias with Sagemaker Clarify.
 - Analyze class imbalance.
