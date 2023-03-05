@@ -1,6 +1,7 @@
 
 ## Week 1:
 [C1_W1_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W1_Assignment.ipynb)
+
 [Slides for Week 1](./slides/C1_W1.pdf)
 ### Objectives
 - Set up a Sagemaker domain.
@@ -11,6 +12,7 @@
 - Ingest, explore, and visualize a product review data set for multi-class text classification.
 ## Week 2: 
 [CL2_W2_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W2_Assignment.ipynb)
+
 [Slides for Week 2](./slides/C1_W2.pdf)
 ### Objectives
 - Detect data bias with Sagemaker Clarify.
@@ -20,6 +22,7 @@
 - Balance the dataset and re-run  the processing job. Inspect metrics.
 ## Week 3: 
 [CL2_W3_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W3_Assignment.ipynb)
+
 [Slides for Week 3](./slides/C1_W3.pdf)
 ### Objectives
 - Understand the concepts of Automated Machine Learning (AutoML).
@@ -29,6 +32,7 @@
 - Find the optimal feature transformations, algorithm, and hyperparameters.
 ## Week 4:
 [CL2_W4_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week1/C1_W3_Assignment.ipynb)
+
 [Slides for Week 4](./slides/C1_W4.pdf)
 ### Objectives
 - Review evolution of text analysis algorithms (word2vec, FastText and BlazingText algorithms)
