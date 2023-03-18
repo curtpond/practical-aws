@@ -17,10 +17,10 @@
 ### Objectives
 - Train a text classifier using a variant of BERT called RoBERTa.
 - Train a custom model with Amazon SageMaker (Bring Your Own Script)
-- -  Configure dataset & evaluation metrics
-- -  Configure hyperparameters
-- - Providing training script
-- - Fit the model
-- - Debug and profile models
+- Configure dataset & evaluation metrics
+- Configure hyperparameters
+- Providing training script
+- Fit the model
+- Debug and profile models
 
 
