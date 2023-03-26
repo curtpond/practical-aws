@@ -23,7 +23,10 @@
 - Fit the model
 - Debug and profile models
 
-[Slides for Week 3](here)
+## Week 3:
+[C2_W3_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week2/C2_W3_Assignment.ipynb)
+
+[Slides for Week 3](./slides/C2_W3.pdf)
 ### Objectives
 - Define and run a pipeline using a directed acyclic graph (DAG) with specific pipeline parameters and model hyper-parameters
 - Define a processing step that cleans, balances, transforms, and splits our dataset into train, validation, and test dataset
