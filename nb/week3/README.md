@@ -18,7 +18,7 @@
 ## Week 2:
 [C3_W2_Assignment](https://github.com/curtpond/practical-aws/blob/main/nb/week3/C3_W2_Assignment.ipynb)
 
-[Slides for Week 1](./slides/C3_W2.pdf)
+[Slides for Week 2](./slides/C3_W2.pdf)
 ### Objectives
 - Describe practical challenges related to ML deployment & monitoring
 - Explain approaches to address deployment and monitoring challenges using techniques such as autoscaling, automating model quality monitoring, automating retraining pipelines
