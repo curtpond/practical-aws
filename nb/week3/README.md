@@ -28,3 +28,14 @@
 - Describe approaches to model monitoring
 - Discuss how to use Amazon SageMaker to perform A/B testing
 - Demonstrate deploying a model version to Amazon SageMaker using A/B testing
+
+## Week 2:
+[C3_W3_Assignment](Not available at this time)
+
+[Slides for Week 3](./slides/C3_W3.pdf)
+### Objectives
+- Describe the importance of data labeling
+- Discuss the concept of automatic data labeling and active learning
+- Implement human-workforce data labeling tasks with SageMaker Ground Truth
+- Discuss the concept of human-in-the-loop pipelines
+- Implement human-in-the-loop pipelines with Amazon AugmentedAI (Amazon A2I)
